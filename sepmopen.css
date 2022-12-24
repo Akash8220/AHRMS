@@ -1,0 +1,43 @@
+body{
+	background-image: url("https://images.pexels.com/photos/1408218/pexels-photo-1408218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+	color: whitesmoke;
+}
+.signin{
+	font-size: 20px;
+	float: right;
+	margin-right: 8px;
+	margin-top: -190px;
+}
+.search{
+	float: right;
+	margin-top: -189px;
+	margin-right: 90px;
+}
+.seasym{
+	float: right;
+	color: white;
+	margin-top: -190px;
+	margin-right: 70px;
+}
+.head{
+	font-style: bold;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 210px;
+}
+.base{
+	font-size: 18px;
+	text-align: center;
+	width: 50%;
+	height: 50%;
+	margin-left: 330px;
+}
+.signup{
+	font-size: 18px;
+	text-align: center;
+	margin-top: 220px;
+}
+a {
+  color: #c84d3a;
+  text-decoration: none;
+}

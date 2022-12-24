@@ -1,0 +1,45 @@
+ body{
+ 	background-image: url("https://images.pexels.com/photos/1408218/pexels-photo-1408218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+	margin: auto;
+	font-size: 18px;
+	margin-top: 30px;
+	color: white;
+}
+button{
+	background-color: #ba6b57;
+	margin: 60px;
+	margin-left: 595px;
+	width: 100px;
+	color: #100100;
+}
+.age{
+	margin-top: 10px;
+	text-align: center;
+}
+.rate1{
+	margin-top: 10px;
+	margin-left: 260px;
+}
+.rate2{
+	margin-top: -43px;
+	margin-left: 460px;
+}
+.rate3{
+	margin-top: -43px;
+	margin-left: 660px;
+}
+.rate4{
+	margin-top: -43px;
+	margin-left: 860px;
+}
+.eno{
+	margin-top: 20px;
+	text-align: center;
+}
+form {
+  background: blur
+  padding: 0.3rem 0.635rem;
+}
+.pri{
+	text-align: center;
+}
